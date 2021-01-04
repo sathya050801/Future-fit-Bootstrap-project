@@ -1,0 +1,179 @@
+h1
+{
+  font-family: "Anton",sans-serif;
+  line-height: 2px;
+  margin-left: 10px;
+}
+
+@media (max-width: 1000px)
+{
+  h1
+  {
+    text-align: center;
+  }
+}
+
+
+#cta
+{
+  color: white;
+  line-height: 20px;
+  text-align: center;
+  background-color: #222831;
+}
+
+#footer
+{
+  text-align: center;
+}
+
+#title
+{
+  background-color: #c0e218;
+}
+
+
+#inspirations
+{
+  padding: 25px 25px;
+  text-align: center;
+  background-color: #222831 ;
+  font-size: bold;
+  color: white;
+  font-family: "Caveat";
+  margin-bottom: 20px;
+}
+
+#features
+{
+  padding: 30px;
+  background-color: #c0e218;
+}
+
+#pricing
+{
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar-brand
+{
+  font-family: "Lobster";
+}
+
+.navbar
+{
+  padding-bottom: 40px;
+}
+
+.first-button
+{
+  margin-left: 10px;
+
+}
+.mainpic
+{
+
+  height: 300px;
+  width: 300px;
+  margin-left: 50px;
+}
+
+.row
+{
+  padding:20px;
+}
+
+.nav-item
+{
+  padding: 0 15px;
+}
+
+.images
+{
+text-align: center;
+padding: 30px;
+  font-family: "Anton";
+    color: #c70039;
+}
+
+.word
+{
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: black;
+}
+
+
+.icon{
+  color: #19456b;
+  margin-bottom: 10px;
+}
+
+.icon:hover{
+  color: #11698e;
+}
+
+
+.inspirations-image
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin-bottom: 40px;
+}
+
+.celebrity
+{
+  font-family: "Montserrat";
+  font-size: 20px;
+}
+
+.card-img-top
+{
+  height: 450px;
+  width: 20px;
+}
+
+.card
+{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.w
+{
+  font-family: "Anton";
+}
+
+.end
+{
+    font-family: "Caveat";
+    font-size: 25px;
+    padding-top: 20px
+}
+
+.fb
+{
+  padding: 20px;
+}
+
+
+.final-button
+{
+  margin-right:20px;
+}
+
+.final
+{
+  color: grey;
+  padding: 10px;
+
+}
+
+.final:hover
+{
+  color: #222831;
+  padding: 10px;
+
+}
